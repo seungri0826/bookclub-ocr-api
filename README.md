@@ -19,4 +19,4 @@
 <br>
 
 ## 동작 예시
-![gif](https://user-images.githubusercontent.com/43572543/168409758-ecc3da73-5a19-440b-99cf-448a80ada217.gif)
+<img src="https://user-images.githubusercontent.com/43572543/168409758-ecc3da73-5a19-440b-99cf-448a80ada217.gif" width="300">
